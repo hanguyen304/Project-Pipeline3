@@ -107,6 +107,7 @@ The Jenkins job configured also gives the status of a successful build.
 
 ![alt text] (https://github.ncsu.edu/github-enterprise-assets/0000/2100/0000/0768/63b7a998-e3a6-11e4-9105-cdff6c9bc812.png)
 
+![alt text] (https://github.ncsu.edu/github-enterprise-assets/0000/2100/0000/0771/0175b87c-e3b7-11e4-9bb5-1e4d8886198c.png)
 
 
 
